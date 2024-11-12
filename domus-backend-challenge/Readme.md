@@ -1,0 +1,1 @@
+I would have liked to add more tests for the repository, service, and controller layers. As improvements, I had considered creating a cache or storing the data collected from the API in a relational or NoSQL database.
